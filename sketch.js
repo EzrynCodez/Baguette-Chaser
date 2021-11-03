@@ -15,7 +15,7 @@ var score = 0;
 function preload(){
     frenchmanImg = loadImage("frenchman.png");
     baguetteImg = loadImage("baguette.png");
-    roadImg = loadImage("Road.png");
+    roadImg = loadImage("road.png");
     carImg = loadImage("car.png");
     gameOverImg = loadImage("gameOver.png");
     restartImg = loadImage("restart.png");
